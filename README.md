@@ -2,4 +2,4 @@
 
 Hello world!
 
-![img added to repo](https://github.com/AshleyONeil/Ashley-Portfolio/blob/main/webdev.jpg)
+![img added to repo](https://github.com/AshleyONeil/first-day-repo/blob/main/repo.jpg)
